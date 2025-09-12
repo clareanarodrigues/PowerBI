@@ -33,6 +33,7 @@
 #### Dataset: Dados utilizados
 
 # Acesso ao Projeto
-#### 1 - Clonar o repositório: git clone https://github.com/clareanarodrigues/PowerBI.git
-#### 2 - Navegar até o diretório do mesmo cd PowerBI
-#### 3 - Acesssar os arquivos PBI para as análises feitas durante esse projeto todo
+#### 1 - Clonar o repositório
+###### git clone https://github.com/clareanarodrigues/PowerBI.git
+#### 2 - Navegar até o diretório do mesmo 
+####### cd PowerBI
