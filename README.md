@@ -1,7 +1,7 @@
 # 📊Projeto de Conclusão - Análise e Desenvolvimento de Sistemas
 ### O repositório contém o projeto TCC desenvolvido para a Faculdade Impacta de Tecnologia, para o curso Análise e Desenvolvimento de Sistemas.
 
-#Sobre
+# Sobre
 ### O projeto faz a análise de dados de um e-commerce. Conferindo seu faturamento, categoria de produtos e suas saída de valores. Promovendo assim, uma visão profunda de uma empresa e seu desesmpenho.
 
 # Equipe 
