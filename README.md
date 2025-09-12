@@ -36,4 +36,4 @@
 #### 1 - Clonar o repositório
 ###### git clone https://github.com/clareanarodrigues/PowerBI.git
 #### 2 - Navegar até o diretório do mesmo 
-####### cd PowerBI
+###### cd PowerBI
