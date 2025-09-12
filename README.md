@@ -17,7 +17,7 @@
 
 
 ## 3º AC
-##### Análise do faturamento mensal ao longo do tempo, soma total das vendas e análise da porcentagem de vendas por canal feitos pela filtragem da categoria do produto escolhido.
+##### Análise do faturamento mensal ao longo do tempo, soma total das vendas e análise da porcentagem de vendas por canal feitos pela filtragem da categoria de produto escolhida.
 
 
 ## 4º AC
