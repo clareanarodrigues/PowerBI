@@ -13,7 +13,7 @@
 
 
 ## 2º AC
-##### Análise da soma do valor total por cada categoria de produto. Faturamento anual ao longo do tempo. Análise com filtro para data de venda específica.
+##### Análise da quantidade vendida total por cada categoria de produto. Faturamento anual ao longo do tempo. Análise com filtro para data de venda específica.
 
 
 ## 3º AC
